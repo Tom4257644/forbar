@@ -9,7 +9,7 @@ Attached in the files is our deck and a few previews below.
 
 <br />
 <br />
-<img src="https://imgur.com/a/rkVsbc6.png" height="30%" width="30%" alt="DCF"/>
+<img src="https://imgur.com/a/rkVsbc6" height="30%" width="30%" alt="DCF"/>
   <img src="https://imgur.com/a/brV2la3.png" height="30%" width="30%" alt="DCF"/>
     <img src="https://imgur.com/a/BZA6WQN.png" height="30%" width="30%" alt="DCF"/>
 <br />
